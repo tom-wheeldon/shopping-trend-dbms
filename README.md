@@ -18,7 +18,7 @@ This project is designed to manage, analyze, and visualize shopping trends data 
 
 ## Configuration Setup
 
-To run this project, you'll need to set up a configuration file with your database credentials.
+To run this project, you'll need to set up a configuration file with your database credentials. There is a template file stored in src/
 
 1. Copy `config_template.py` to `config.py`:
 
