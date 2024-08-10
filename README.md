@@ -7,13 +7,13 @@ DBMS designed to analyze and visualize shopping trends using a MySQL database an
 2. [Configuration Setup](#configuration-setup)
 3. [Database Setup](#database-setup)
 4. [Python Dependencies](#python-dependencies)
-5. [Running Visualizations](#running-visualizations)
+5. [Running Visualizations](#running-visualisations)
 
 ## Project Overview
 
-This project is designed to manage, analyze, and visualize shopping trends data stored in a MySQL database. It includes:
+This project is designed to manage, analyse, and visualise shopping trends data stored in a MySQL database. It includes:
 - A MySQL database schema to store customer, product, and transaction data.
-- Python scripts for generating visualizations such as customer demographics, seasonal sales trends, and top products by sales.
+- Python scripts for generating visualisations such as customer demographics, seasonal sales trends, and top products by sales.
 - Documentation to guide users in setting up and using the project.
 
 ## Configuration Setup
